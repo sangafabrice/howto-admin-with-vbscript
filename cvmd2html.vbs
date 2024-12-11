@@ -1,5 +1,5 @@
 ''' <summary>Launch the shortcut target PowerShell script with the selected markdown as an argument.</summary>
-''' <version>0.0.1.27</version>
+''' <version>0.0.1.28</version>
 
 Option Explicit
 
